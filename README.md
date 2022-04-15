@@ -1,4 +1,4 @@
-# hello-blockchain
+# Token Bundler Dapp
 
 ## Project setup
 ```
